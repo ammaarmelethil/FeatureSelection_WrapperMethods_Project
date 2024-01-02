@@ -1,9 +1,12 @@
-- Original Logistic Regression Model Accuracy (Using all features) = 96.49%
-- Sequential Forward Selection for Optimal 9 Best Features Accuracy = 97.35%
-- Sequential Backward Selection for Optimal 7 Best Features Accuracy = 97.49%
-- Recursive Feature Elimination for Optimal 8 Best Features Accuracy = 99.72%
+### Findings
+
+- Original Logistic Regression Model Accuracy (Using all features) = **96.49%**
+- Sequential Forward Selection for Optimal 9 Best Features Accuracy = **97.35%**
+- Sequential Backward Selection for Optimal 7 Best Features Accuracy = **97.49%**
+- Recursive Feature Elimination for Optimal 8 Best Features Accuracy = **99.72%**
 
 
+### Description and Visuals
 
 In this project, I analyzed data from a survey conducted by Fabio Mendoza Palechor and Alexis de la Hoz Manotas that asked people about their eating habits and weight. The data was obtained from the UCI Machine Learning Repository. Categorical variables were changed to numerical ones to facilitate analysis.
 
